@@ -1,6 +1,6 @@
 # Papyrine
 
-.NET libraries and tools for **creating, converting, and rendering documents** — Word, Excel, PowerPoint, HTML, Markdown, and diagrams. Most are built directly on [DocumentFormat.OpenXml](https://github.com/dotnet/Open-XML-SDK), and several compose with each other to form a small document-tooling ecosystem.
+.NET libraries and tools for **creating, converting, and rendering documents** — Word, Excel, Markdown, and diagrams. Most are built directly on [DocumentFormat.OpenXml](https://github.com/dotnet/Open-XML-SDK), and several compose with each other to form a small document-tooling ecosystem.
 
 ## Projects
 
