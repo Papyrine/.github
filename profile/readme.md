@@ -3,6 +3,17 @@
 .NET libraries and tools for **creating, converting, and rendering documents** — Word, Excel, Markdown, and diagrams — alongside supporting libraries for geospatial maps and icons. Several build directly on [DocumentFormat.OpenXml](https://github.com/dotnet/Open-XML-SDK), and many compose with each other to form a small document-tooling ecosystem.
 
 
+## Open Source Maintenance Fee
+
+**All Papyrine projects participate in the [Open Source Maintenance Fee](https://opensourcemaintenancefee.org) (OSMF).** The source for every project stays freely available under its OSI license — viewing, building, modifying, and self-compiling are unaffected. What the OSMF asks is that use of the official binary releases (the published NuGet packages) in revenue-generating activities, and by all government agencies, is supported by sponsorship.
+
+**One fee covers the whole family.** Sponsorship is declared once and every Papyrine package recognises it — a single sponsorship of the [Papyrine sponsor account](https://github.com/sponsors/Papyrine) covers all of the projects listed below, not one per package. Enforcement is a gentle build-time reminder via [SponsorCheck](https://github.com/SimonCropp/SponsorCheck) (owner mode); there is no runtime impact on the shipped packages, and consumers under US$10,000 annual gross revenue are exempt.
+
+- **Learn about the model** — https://opensourcemaintenancefee.org
+- **Pay the fee (sponsor)** — https://github.com/sponsors/Papyrine
+- **How the build-time check works** — https://github.com/SimonCropp/SponsorCheck
+
+
 ## The name
 
 **Papyrine** — *PAP-ih-rin* (`/ˈpæpɪrɪn/`): "PAP" as in *pap*, a short *i*, and "-rin" rhyming with *bin*.
