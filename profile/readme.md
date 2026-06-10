@@ -13,6 +13,10 @@
 - **Pay the fee (sponsor)** — https://github.com/sponsors/Papyrine
 - **How the build-time check works** — https://github.com/SimonCropp/SponsorCheck
 
+### Consulting exemption
+
+Organizations that have engaged any of the core maintainers of Papyrine in consulting work could be exempt from the Maintenance Fee for **6 months from the final date of that work**.
+
 
 ## The name
 
